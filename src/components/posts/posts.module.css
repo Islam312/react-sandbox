@@ -1,0 +1,20 @@
+.baseHeader {
+     letter-spacing: 5px;
+     color: orange;
+     margin: 20px 0 0;
+}
+.postWrapper{
+    outline: 1px solid orange;
+}
+.item{
+    padding: 20px;
+}
+.title{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.description {
+    text-indent: 20px;
+    padding: 10px 40px;
+    color: gold;
+}
