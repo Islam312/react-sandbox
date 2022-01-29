@@ -1,0 +1,15 @@
+.wrapperTodoList {
+  background: #e4e2e2;
+}
+
+.listTodos {
+  padding: 20px;
+  list-style: none;
+}
+
+.itemTodos {
+  padding: 10px;
+  border: solid 1px steelblue;
+  cursor: pointer;
+  margin: 5px;
+}
